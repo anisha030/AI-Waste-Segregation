@@ -84,15 +84,15 @@ The model is trained using the **Large-Scale Garbage Dataset**, which contains *
 
 ## 📁 Project Structure
 
-```
+```text
 AI-Waste-Segregation/
 │
-├── AI_Waste_Segregation_Report.docx
-├── ai_waste_segregation_stage1_stage2.ipynb
+├── screenshots/
+├── .gitignore
+├── AI_Waste_Groq.html
 ├── README.md
-├── images/
-├── models/
-└── requirements.txt
+├── Requirements.txt
+└── main.ipynb
 ```
 
 ---
